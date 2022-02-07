@@ -1,7 +1,7 @@
 ### Olá!! 👋 Eu sou o Erick, um pequeno gafanhoto que está aprendendo programação 😃
 
-- 🔭 Atualmente trabalho em 
-- 🌱 Estudando Python
+- 🔭 Fascinado por esse novo mundo que descobri 🖱🤩.
+- 🌱 Estudando Python.
 
 
 <div align="center">
